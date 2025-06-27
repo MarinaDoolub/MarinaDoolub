@@ -64,7 +64,7 @@
   <a href="https://github.com/MarinaDoolub">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/MarinaDoolub/Web-portfolio.git">
+  <a href="https://marinadoolub.github.io/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
